@@ -1,0 +1,1 @@
+# GCP-BigQuery-ML-and-AWS-Redshift-ML
